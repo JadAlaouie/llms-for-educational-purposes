@@ -22,6 +22,8 @@ QuizMaster.py
 MagicPrompt.py
 
 LinkedInWizard.py
+
+...
 ```
 🚀 Running the Application
 Start the Streamlit server:
