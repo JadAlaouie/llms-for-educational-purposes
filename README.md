@@ -13,7 +13,6 @@ GOOGLE_CSE_ID=your_google_id_key
 GOOGLE_API_KEY=your_google_api_key
 ANTHROPIC_API_KEY=your_claude_api_key
 ELEVENLABS_API_KEY=tyour_elevenlabs_api_key
-API_KEY=your_api_key
 ```
 🤖 Creating a Bot Instance
 Available bot templates:
